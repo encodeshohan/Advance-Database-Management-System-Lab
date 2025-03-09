@@ -30,14 +30,14 @@ INSERT INTO House VALUES (44, 'Slytherin', 850);
 
 --                                         Insert Values into Student Table
 
-INSERT INTO Student VALUES (2, 'Harry', 3.45, 'Halfblood', 11)
-INSERT INTO Student VALUES (7, 'Ron', 3.01, 'Pureblood', 11)
-INSERT INTO Student VALUES (12, 'Hannah, NULL, 'Pureblood', 22)
-INSERT INTO Student VALUES (17, 'Cedric', 3.78, 'Pureblood', 22)
-INSERT INTO Student VALUES (22, 'Cho', 3.55, 'Muggleborn', 33)
-INSERT INTO Student VALUES (27, 'Luna', 2.89, NULL, 33)
-INSERT INTO Student VALUES (32, 'Draco', 3.88, 'Pureblood', 44)
-INSERT INTO Student VALUES (37, 'Goyle', 2.10, 'Pureblood', 44)
+INSERT INTO Student VALUES (2, 'Harry', 3.45, 'Halfblood', 11);
+INSERT INTO Student VALUES (7, 'Ron', 3.01, 'Pureblood', 11);
+INSERT INTO Student VALUES (12, 'Hannah', NULL, 'Pureblood', 22);
+INSERT INTO Student VALUES (17, 'Cedric', 3.78, 'Pureblood', 22);
+INSERT INTO Student VALUES (22, 'Cho', 3.55, 'Muggleborn', 33);
+INSERT INTO Student VALUES (27, 'Luna', 2.89, NULL, 33);
+INSERT INTO Student VALUES (32, 'Draco', 3.88, 'Pureblood', 44);
+INSERT INTO Student VALUES (37, 'Goyle', 2.10, 'Pureblood', 44);
 
 
 --                                               Queries
