@@ -1,5 +1,5 @@
 -- Data Definition Language (DDL)
-
+ 
 -- publishers Table
 CREATE TABLE publishers (
 pubid INT PRIMARY KEY,
